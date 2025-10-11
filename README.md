@@ -23,7 +23,7 @@ This project helps strengthen my fundamentals, explore advanced topics, and main
 
 ```
 
-Java-Daily-Challenges/
+Java-Daily-Challenges/Code-With-Java/
 │
 ├── Arrays/
 │   ├── Task.md
@@ -66,7 +66,7 @@ Java-Daily-Challenges/
 git clone https://github.com/Dev-Hariprasath/Java-Daily-Challenges.git
 
 # Navigate into a specific challenge folder
-cd Java-Daily-Challenges/Arrays
+cd Java-Daily-Challenges/Code-With-Java/Arrays
 
 # Compile and run the Java file
 javac Reverse.java
