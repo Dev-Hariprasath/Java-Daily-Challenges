@@ -31,4 +31,4 @@
 17. Get the average salaries of all employees per department
 18. Check if all employees belong to a specific department
 19. List all employees grouping by cities but belong to the same department
-20. Find the department with the highest average salary
+20. Find the department with the highest average salary - 15
