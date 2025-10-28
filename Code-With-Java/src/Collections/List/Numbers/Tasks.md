@@ -19,4 +19,4 @@
 12. Convert an array of integers into a map where the key is the number and the value is its square.
 13. Partition an array of integers into two groups: even and odd using Streams.
 14. Calculate the product of all numbers in the array using reduce.
-15. Implement a parallel stream that computes the sum of squares of numbers in an array. - 12
+15. Implement a parallel stream that computes the sum of squares of numbers in an array.
