@@ -1,0 +1,274 @@
+# DSA Practice Questions
+
+## Array
+
+- Search an Element in an array
+- Check if two arrays are equal or not
+- Missing element of AP
+- Cyclically rotate an array by one
+- Find minimum and maximum element in an array
+- Binary Array Sorting
+- Move all negative elements to end
+- Missing number
+- Search Element in Matrix
+- Find the fine
+- Greater on right side
+- Remove duplicate elements from sorted Array
+- Subarray with given sum
+- Sort an array of 0s, 1s and 2s
+- Equilibrium Point
+- Peak element
+- Find Transition Point
+- Alternate positive and negative numbers
+- Union of Two Sorted Arrays
+- Three way partitioning
+- Frogs and Jumps
+- Min Subsets with Consecutive Numbers
+- Find Missing And Repeating
+- Rearrange Array Alternately
+- Pythagorean Triplet
+- Rearrange an array with O(1) extra space
+- Count triplets with sum smaller than X
+- Boolean Matrix
+- Row with max 1s
+- Container With Most Water
+- Maximum Triplet product
+- Coins of Geekland
+- Next Permutation
+- Rotate Image
+- Count Primes
+- Watering Plants
+- Arithmetic Subarrays
+- Majority Element
+
+## Hashing
+
+- First Repeating element
+- 2 Sum
+- Union of two arrays
+- First element to occur k times
+- Diffk II
+- Longest Substring Without Repeat
+- Pairs With Given Xor
+- Sum of f(a[i], a[j]) over all pairs in an array of n integers
+- Substrings with same first and last characters
+- Largest subarray with 0 sum
+- Count distinct elements in every window
+- Largest subarray of 0's and 1's
+- Longest consecutive subsequence
+- Colorful Number
+- Subarray with B odd numbers
+- An Increment Problem
+- Substring Concatenation
+- Copy List
+- Triplet Sum in Array
+- Nuts and Bolts Problem
+- Subarrays with equal 1s and 0s
+- Longest subarray with sum divisible by K
+- Equal 0, 1 and 2
+
+## LinkedList
+
+- Print Linked List elements
+- Linked List Insertion
+- Count nodes of linked list
+- Check If Circular Linked List
+- Identical Linked Lists
+- Insert in a Sorted List
+- Insert in Middle of Linked List
+- Delete node in Doubly Linked List
+- Reverse a Doubly Linked List
+- Delete Alternate Nodes
+- Find the Sum of Last N nodes of the Linked List
+- Find n/k th node in Linked list
+- Detect Loop in linked list
+- Move Last Element to Front of a Linked List
+- Nth node from end of linked list
+- Finding middle element in a linked list
+- Reverse a linked list
+- Remove duplicate element from sorted Linked List
+- Delete without head pointer
+- Remove duplicates from an unsorted linked list
+- Delete a Node in Single Linked List
+- Given a linked list of 0s, 1s and 2s, sort it.
+- Find length of Loop
+- Intersection of two sorted Linked lists
+- Pairwise swap elements of a linked list
+- Sorted insert for circular linked list
+- Count Pairs whose sum is equal to X
+- Intersection of Two Linked Lists
+- Split a Circular Linked List into two halves
+- Union of Two Linked Lists
+- Linked List Matrix
+- XOR Linked List
+- Remove loop in Linked List
+- Intersection Point in Y Shaped Linked Lists
+- Check if Linked List is Palindrome
+- Rotate a Linked List
+- Merge two sorted linked lists
+- Delete nodes having greater value on right
+- Merge Sort for Linked List
+- Rearrange a linked list
+- Prime List
+- Length of longest palindrome in linked list
+- Reverse alternate nodes in Link List
+- Merge Sort on Doubly Linked List
+- Quick Sort on Linked List
+- QuickSort on Doubly Linked List
+- Remove all occurences of duplicates in a linked list
+- Insertion Sort for Singly Linked List
+- Reverse Alternate K Nodes
+- Linked List Cycle II
+- LRU Cache
+- Flatten a Multilevel Doubly Linked List
+- Clone a linked list with next and random pointer
+- Reorder List
+- Reverse a sublist of a linked list
+- LFU Cache
+- Reverse Nodes in k-Group
+- Design Skiplist
+- Subtraction in Linked List
+
+## Queue
+
+- Queue Push & Pop
+- Queue Reversal
+- Implement Queue using array
+- Implement Queue using Linked List
+- Generate Binary Numbers
+- Stack using two queues
+- Queue using two Stacks
+- Reverse First K elements of Queue
+- Deque Implementations
+- Next Right Node
+- First Unique Character in a Str
+- Number of Recent Calls
+- Time Needed to Buy Tickets
+- First non-repeating character in a stream
+- Circular tour
+- Count the Reversals
+- Stack Permutations
+- Operations on PriorityQueue
+- Design Circular Deque
+- First non-repeating character in a stream of characters
+- Sliding Window Maximum
+
+## Searching and Sorting
+
+- Searching an element in a sorted array
+- Last index of One
+- Count the Zeros
+- Elements in the Range
+- Bubble Sort
+- Insertion Sort
+- First and last occurrences of X
+- Count zeros in a sorted matrix
+- Array Subset of another array
+- Selection Sort
+- Floor in a Sorted Array
+- Radix Sort
+- Search in a matrix
+- Bitonic Point
+- Two Repeated Elements
+- Count More than n/k Occurences
+- Number and the Digit Sum
+- Find triplets with zero sum
+- Sort The Array
+- Sort in specific order
+- Sort a String
+- Triplet Family
+- Merge and Sort
+- Merging two unsorted arrays in sorted order
+- Rope Cutting
+- Make array elements unique
+- Smallest Positive missing number
+- Sort an array according to the other
+- Square root of a number
+- Search in a row-column sorted Matrix
+- Smallest factorial number
+- Merge Sort
+- Quick Sort
+- Count Inversions
+- Find All Four Sum Numbers
+- Minimum Swaps to Sort
+- Number of pairs
+- Sort an Array
+- Sorting Elements of an Array by Frequency
+- Overlapping Intervals
+- Find minimum number of Laptops required
+- LCP
+- Reach a Number
+- Heaters
+- Friends Of Appropriate Ages
+- Koko Eating Bananas
+- 3Sum
+- 3Sum Closest
+- Nth Digit
+- Sort a 2D vector diagonally
+- Maximum Intersecting Lines
+
+## Stack
+
+- Immediate Smaller Element
+- Implement stack using array
+- Implement Stack using Linked List
+- Pairwise Consecutive Elements
+- Parenthesis Checker
+- Sort a stack
+- Delete middle element of a stack
+- Maximum Difference
+- Print Bracket Number
+- Max sum in sub-arrays
+- String Manipulation
+- Make the array beautiful
+- Next Greater Element I
+- Baseball Game
+- Backspace String Compare
+- Next Greater Element
+- Get minimum element from stack
+- The Celebrity Problem
+- Smallest number on left
+- Asteroid Collision
+- Remove K Digits
+- Valid Expression
+- Find Maximum Equal sum of Three Stacks
+- MAXSPPROD
+- Decode String
+- Evaluate Expression
+- Redundant Braces
+- Next Greater Element II
+- Clumsy Factorial
+
+## String
+
+- Reverse a String
+- Check if strings are rotations of each other or not
+- Maximum Occuring Character
+- Binary String
+- Anagram of String
+- Merge two strings
+- Reverse words in a given string
+- Palindrome String
+- Longest Common Prefix in an Array
+- Roman Number to Integer
+- Length of Last Word
+- Longest Distinct characters in string
+- Remove all duplicates from a given string
+- Min Number of Flips
+- Meta Strings
+- Smallest window containing 0, 1 and 2
+- Generate Grey Code Sequences
+- Sum of two large numbers
+- Length of the longest substring
+- Longest Prefix Suffix
+- Smallest distinct window
+- Case-specific Sorting of Strings
+- Excel Sheet | Part - 1
+- Transform String
+- Remove and Reverse
+- String formation from substring
+- Minimum Days
+- Remove Consecutive Characters
+- Bulls and Cows
+- Atoi
+
