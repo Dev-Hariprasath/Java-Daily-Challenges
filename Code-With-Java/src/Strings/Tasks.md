@@ -16,7 +16,7 @@
 11. Find and print the first non-repeated character from a string.
 12. Display the frequency of each character in a string (use `Map<Character, Integer>`).
 13. Generate all possible permutations of the given string.
-14. Given a sentence, find the longest word and its length.
+14. Given a sentence, find the longest word and its length. 
 15. Convert the first letter of every word in a sentence to uppercase.
 16. Check if one string is a rotation of another (e.g., “abcde” and “cdeab”).
 17. Count the number of words in a given sentence without using split().
