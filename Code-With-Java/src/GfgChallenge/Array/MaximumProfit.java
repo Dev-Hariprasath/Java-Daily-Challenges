@@ -1,4 +1,4 @@
-package GfgChallenge;
+package GfgChallenge.Array;
 
 public class MaximumProfit {
     public int maximumProfit(int prices[]) {

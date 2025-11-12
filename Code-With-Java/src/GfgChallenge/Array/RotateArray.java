@@ -1,4 +1,4 @@
-package GfgChallenge;
+package GfgChallenge.Array;
 
 public class RotateArray {
         static void reverse(int[] arr, int start, int end){

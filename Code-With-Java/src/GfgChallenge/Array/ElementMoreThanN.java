@@ -1,4 +1,4 @@
-package GfgChallenge;
+package GfgChallenge.Array;
 
 import java.util.ArrayList;
 import java.util.Collections;

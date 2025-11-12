@@ -1,4 +1,4 @@
-package GfgChallenge;
+package GfgChallenge.Array;
 
 public class MoveAllZeroesToEnd {
     void pushZerosToEnd(int[] arr) {

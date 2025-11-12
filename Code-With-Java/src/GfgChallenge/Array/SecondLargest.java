@@ -1,4 +1,4 @@
-package GfgChallenge;
+package GfgChallenge.Array;
 
 public class SecondLargest {
     public int getSecondLargest(int[] arr) {
