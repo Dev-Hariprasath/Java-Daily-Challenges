@@ -25,11 +25,11 @@ This project helps strengthen my fundamentals, explore advanced topics, and main
 
 Java-Daily-Challenges/Code-With-Java/
 │
-├── Arrays/
+├── ShristiAcademy.Arrays/
 │   ├── Task.md
 │   ├── Reverse.java
 │
-├── Strings/
+├── ShristiAcademy.Strings/
 │   ├── Task.md
 │   ├── LongestSubString.java
 │
@@ -51,7 +51,7 @@ Java-Daily-Challenges/Code-With-Java/
 |---------|----------------|
 | **Core Java** | ![Syntax](https://img.shields.io/badge/Syntax-00796B?style=for-the-badge&logo=java&logoColor=white) ![Data Types](https://img.shields.io/badge/Data_Types-009688?style=for-the-badge&logo=java&logoColor=white) ![Variables](https://img.shields.io/badge/Variables-00ACC1?style=for-the-badge&logo=java&logoColor=white) ![Operators](https://img.shields.io/badge/Operators-26A69A?style=for-the-badge&logo=java&logoColor=white) ![Loops](https://img.shields.io/badge/Loops-4DB6AC?style=for-the-badge&logo=java&logoColor=white) ![Conditionals](https://img.shields.io/badge/Conditionals-80CBC4?style=for-the-badge&logo=java&logoColor=white) |
 | **OOPs Concepts** | ![Classes](https://img.shields.io/badge/Classes-6A1B9A?style=for-the-badge&logo=java&logoColor=white) ![Objects](https://img.shields.io/badge/Objects-8E24AA?style=for-the-badge&logo=java&logoColor=white) ![Inheritance](https://img.shields.io/badge/Inheritance-AB47BC?style=for-the-badge&logo=java&logoColor=white) ![Polymorphism](https://img.shields.io/badge/Polymorphism-BA68C8?style=for-the-badge&logo=java&logoColor=white) ![Abstraction](https://img.shields.io/badge/Abstraction-CE93D8?style=for-the-badge&logo=java&logoColor=white) ![Encapsulation](https://img.shields.io/badge/Encapsulation-E1BEE7?style=for-the-badge&logo=java&logoColor=white) |
-| **Collections Framework** | ![List](https://img.shields.io/badge/List-00796B?style=for-the-badge&logo=java&logoColor=white) ![Set](https://img.shields.io/badge/Set-00897B?style=for-the-badge&logo=java&logoColor=white) ![Map](https://img.shields.io/badge/Map-26A69A?style=for-the-badge&logo=java&logoColor=white) ![Queue](https://img.shields.io/badge/Queue-4DB6AC?style=for-the-badge&logo=java&logoColor=white) ![Iterator](https://img.shields.io/badge/Iterator-80CBC4?style=for-the-badge&logo=java&logoColor=white) |
+| **ShristiAcademy.Collections Framework** | ![List](https://img.shields.io/badge/List-00796B?style=for-the-badge&logo=java&logoColor=white) ![Set](https://img.shields.io/badge/Set-00897B?style=for-the-badge&logo=java&logoColor=white) ![Map](https://img.shields.io/badge/Map-26A69A?style=for-the-badge&logo=java&logoColor=white) ![Queue](https://img.shields.io/badge/Queue-4DB6AC?style=for-the-badge&logo=java&logoColor=white) ![Iterator](https://img.shields.io/badge/Iterator-80CBC4?style=for-the-badge&logo=java&logoColor=white) |
 | **Exception Handling** | ![Try Catch](https://img.shields.io/badge/Try_Catch-FF9800?style=for-the-badge&logo=java&logoColor=white) ![Finally](https://img.shields.io/badge/Finally-FFB74D?style=for-the-badge&logo=java&logoColor=white) ![Throws](https://img.shields.io/badge/Throws-FFCC80?style=for-the-badge&logo=java&logoColor=white) ![Custom Exceptions](https://img.shields.io/badge/Custom_Exceptions-FFE0B2?style=for-the-badge&logo=java&logoColor=black) |
 | **Algorithms & DSA** | ![Sorting](https://img.shields.io/badge/Sorting-1E88E5?style=for-the-badge&logo=java&logoColor=white) ![Searching](https://img.shields.io/badge/Searching-2196F3?style=for-the-badge&logo=java&logoColor=white) ![Recursion](https://img.shields.io/badge/Recursion-42A5F5?style=for-the-badge&logo=java&logoColor=white) ![Time Complexity](https://img.shields.io/badge/Time_Complexity-64B5F6?style=for-the-badge&logo=java&logoColor=white) ![Space Complexity](https://img.shields.io/badge/Space_Complexity-90CAF9?style=for-the-badge&logo=java&logoColor=white) |
 | **File Handling** | ![File IO](https://img.shields.io/badge/File_IO-546E7A?style=for-the-badge&logo=java&logoColor=white) ![BufferedReader](https://img.shields.io/badge/BufferedReader-607D8B?style=for-the-badge&logo=java&logoColor=white) ![FileWriter](https://img.shields.io/badge/FileWriter-78909C?style=for-the-badge&logo=java&logoColor=white) ![Serialization](https://img.shields.io/badge/Serialization-90A4AE?style=for-the-badge&logo=java&logoColor=white) |
@@ -66,7 +66,7 @@ Java-Daily-Challenges/Code-With-Java/
 git clone https://github.com/Dev-Hariprasath/Java-Daily-Challenges.git
 
 # Navigate into a specific challenge folder
-cd Java-Daily-Challenges/Code-With-Java/Arrays
+cd Java-Daily-Challenges/Code-With-Java/ShristiAcademy.Arrays
 
 # Compile and run the Java file
 javac Reverse.java

@@ -20,7 +20,7 @@
 - Peak element
 - Find Transition Point
 - Alternate positive and negative numbers
-- Union of Two Sorted Arrays
+- Union of Two Sorted ShristiAcademy.Arrays
 - Three way partitioning
 - Frogs and Jumps
 - Min Subsets with Consecutive Numbers
@@ -255,14 +255,14 @@
 - Longest Distinct characters in string
 - Remove all duplicates from a given string
 - Min Number of Flips
-- Meta Strings
+- Meta ShristiAcademy.Strings
 - Smallest window containing 0, 1 and 2
 - Generate Grey Code Sequences
 - Sum of two large numbers
 - Length of the longest substring
 - Longest Prefix Suffix
 - Smallest distinct window
-- Case-specific Sorting of Strings
+- Case-specific Sorting of ShristiAcademy.Strings
 - Excel Sheet | Part - 1
 - Transform String
 - Remove and Reverse

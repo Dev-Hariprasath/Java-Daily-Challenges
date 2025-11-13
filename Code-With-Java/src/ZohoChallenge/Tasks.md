@@ -37,7 +37,7 @@
 21. [Matrix Sorting](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
 22. [Count Possible Triangles](https://www.geeksforgeeks.org/problems/count-possible-triangles-1587115620/1)
 23. [Sort by Number of Factors](https://www.geeksforgeeks.org/sort-elements-basis-number-factors/)
-24. [Check if Number is Palindrome (No Strings Allowed)](https://www.geeksforgeeks.org/problems/palindrome/0)
+24. [Check if Number is Palindrome (No ShristiAcademy.Strings Allowed)](https://www.geeksforgeeks.org/problems/palindrome/0)
 25. [Reverse String Keeping Special Characters Intact](https://www.geeksforgeeks.org/problems/special-array-reversal/0)
 26. [Decode Recursively Encoded String](https://www.geeksforgeeks.org/problems/decode-the-string2444/1)
 27. [Ease the Array](https://www.geeksforgeeks.org/problems/ease-the-array/0)
@@ -85,7 +85,7 @@
 64. [Find Second Maximum](https://www.geeksforgeeks.org/problems/find-second-largest-element/0)
 65. [Unique Rows in Boolean Matrix](https://www.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1)
 66. [Longest Consecutive Subsequence](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence/0)
-67. [Union of Two Arrays](https://www.geeksforgeeks.org/problems/union-of-two-arrays/0)
+67. [Union of Two ShristiAcademy.Arrays](https://www.geeksforgeeks.org/problems/union-of-two-arrays/0)
 68. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 69. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 70. K-Digit Number Formation Problem  
